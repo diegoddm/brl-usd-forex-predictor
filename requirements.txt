@@ -4,3 +4,4 @@ numpy
 yfinance
 scikit-learn
 transformers
+feedparser==6.0.10
